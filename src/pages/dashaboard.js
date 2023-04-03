@@ -1,5 +1,9 @@
+import Grid from "../components/Grid";
+
 const Dashboard = () => {
-    return <>Dashboard</>
+    return <>
+        <Grid />
+    </>
 }
 
 export default Dashboard
